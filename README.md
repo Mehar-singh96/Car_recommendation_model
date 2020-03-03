@@ -5,4 +5,5 @@ The analysis is carried out to study the acceptability of a car based on various
 2. good
 3. unacc
 4. vgood.
+<br>
 Based on the developed models, the Random Forest algorithm with 10-fold cross validation results in the best accuracy. The study and models are explained in detail in the report.
